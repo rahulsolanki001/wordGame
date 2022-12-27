@@ -1,0 +1,18 @@
+body{font-size: 18px;}
+h1{text-align: center;}
+#info{width: 80vw;margin-left: 20vw;margin-top: 1em;}
+#level{width:15%;margin-left: 5%; border: 1px solid #2b95ff; border-radius: 42%;color: #ffff; background-color:#2b95ff;text-align: center;}
+#score{width: 15%;margin-left: 5%;border-radius: 5%;color: #ffff;background-color: #398c30;text-align: center;}
+#nextLevel{width: 15%;margin-left: 5%;border: 1px solid #48226e;;border-radius:5%;background-color: #48226e;color:#ffff;text-align: center;}
+#word-timer{width: 30vw;margin-left: 25vw;margin-top: 3em;;}
+#word{width: 70%;margin-left:10%;font-size: 26px;text-align: center;color: #042A2B;}
+#timer{width: 20%;font-size: 16px;}
+#stack{width: 20vw;border-radius: 5%;margin-left: 20vw;height: 10vh;text-align: center;background-color: #48226e;color: #ffff;}
+#stack p{margin-left: 1em;font-size: 20px;width: 30%;}
+#input{width: 25vw;margin-left: 35vw;margin-top: 1em;margin-bottom: 3em;}
+#keyboard{width: 50vw;margin-left: 30vw;font-size: 40px;}
+#row2{margin-left: 0.5em;}
+#row3{margin-left: 1em;}
+#modal-div{width: 40vw;height: 40vh;margin-top: 15vh;margin-left:20vw;font-size: 20px;background-color: #e84c41;color: #ffff;text-align: center;}
+#modal-div button{margin-left: 5em;margin-right: 2em;}
+
